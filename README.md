@@ -78,5 +78,8 @@ This project helped in understanding:
 * Scientific calculator functions
 * Improved UI design
 
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/69f3b0d2-3e22-44f2-b417-65b406a0a491" />
+
+
 
 This project is open source and available under the MIT License.
